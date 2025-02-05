@@ -18,8 +18,4 @@ This is a simple responsive landing page with an interactive navigation menu. Th
 - **CSS** for styling the page and making it responsive
 - **JavaScript** for interactivity (scroll effect and hover effect)
 
-## How to Run Locally
 
-1. **Clone the repository** (if using GitHub):
-   ```bash
-   git clone https://github.com/yourusername/responsive-landing-page.git
